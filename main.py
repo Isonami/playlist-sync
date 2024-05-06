@@ -43,7 +43,7 @@ def main():
         })
 
     with open(environ['OUTPUT_FILE'], 'w') as f:
-        yaml.dump(output, f)
+        yaml.dump(output, f, allow_unicode=True)
 
 
 if __name__ == '__main__':

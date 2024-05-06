@@ -3,7 +3,10 @@ run-name: automatic run
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '*/5 * * * *'
+
+permissions:
+  contents: write
 
 jobs:
   sync:
