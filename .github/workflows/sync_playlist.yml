@@ -26,6 +26,8 @@ jobs:
           path: ./.venv
           key: venv-${{ hashFiles('poetry.lock') }}
       - name: Install the project dependencies
+        run: poetry install
+      - name: Run script
         run: poetry run python main.py
         env:
           OUTPUT_FILE: "playlist.yaml"
