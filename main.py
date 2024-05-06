@@ -34,11 +34,12 @@ def main():
             raise Exception(f"Environment variable {env} not set")
 
     for item in get_playlist_items(environ["PLAYLIST_ID"]):
+        print(item['track']['external_urls'])
         output.append({
             "title": item['track']['name'],
             "artist": " | ".join(a['name'] for a in item['track']['artists']),
-            "url": item['track']['external_urls']['spotify'],
-            "isrc": item['track']['external_ids']['isrc'],
+            "url": item['track']['external_urls'].get('spotify', ''),
+            "isrc": item['track']['external_ids'].get('isrc'),
         })
 
     with open(environ['OUTPUT_FILE'], 'w') as f:
