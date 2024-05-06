@@ -34,7 +34,6 @@ def main():
             raise Exception(f"Environment variable {env} not set")
 
     for item in get_playlist_items(environ["PLAYLIST_ID"]):
-        print(item['track']['external_urls'])
         output.append({
             "title": item['track']['name'],
             "artist": " | ".join(a['name'] for a in item['track']['artists']),
