@@ -1,0 +1,48 @@
+name: Sync playlist
+run-name: automatic run
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+      - name: Install poetry
+        uses: abatilo/actions-poetry@v2
+      - name: Setup a local virtual environment (if no poetry.toml file)
+        run: |
+          poetry config virtualenvs.create true --local
+          poetry config virtualenvs.in-project true --local
+      - uses: actions/cache@v3
+        name: Define a cache for the virtual environment based on the dependencies lock file
+        with:
+          path: ./.venv
+          key: venv-${{ hashFiles('poetry.lock') }}
+      - name: Install the project dependencies
+        run: poetry run python main.py
+        env:
+          OUTPUT_FILE: "playlist.yaml"
+          PLAYLIST_ID: "2UVHKodwIOOyAxO8TspvIN"
+          SPOTIPY_CLIENT_ID: ${{ secrets.SpotipyClientID }}
+          SPOTIPY_CLIENT_SECRET: ${{ secrets.SpotipyClientSecret }}
+      - name: Commit files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add playlist.yaml
+          git commit -a -m "Update palylist" || true
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          branch: ${{ github.head_ref }}
+
+
+
+
