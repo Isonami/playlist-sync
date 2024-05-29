@@ -242,10 +242,6 @@
   isrc: CA6D21000231
   title: Lonesong
   url: https://open.spotify.com/track/62SdKqPmG0eFqj93dhPJu7
-- artist: The Weeknd
-  isrc: USUG11600975
-  title: False Alarm
-  url: https://open.spotify.com/track/09FhDfmrSDN162X1yFfapI
 - artist: kent
   isrc: SEBMC1600011
   title: Den sista sången
@@ -8666,10 +8662,6 @@
   isrc: GB6TW1100048
   title: Home
   url: https://open.spotify.com/track/7D6eIQoh51AkAPfhhp3fYW
-- artist: Grimes
-  isrc: CA21O1200002
-  title: Genesis
-  url: https://open.spotify.com/track/48p1tayyXF3eh8E3Y4pXmK
 - artist: Chromatics
   isrc: USL841010036
   title: Running Up That Hill
@@ -9479,3 +9471,19 @@
   isrc: GBSTK0700002
   title: Bodysnatchers
   url: https://open.spotify.com/track/4pWIwnnqx8k01fuF95UMIg
+- artist: Bring Me The Horizon
+  isrc: GBARL2400565
+  title: '[ost] p.u.s.s.-e'
+  url: https://open.spotify.com/track/4F8dZKZnY8dhEtUbUzHiEt
+- artist: Wisp
+  isrc: QZHN72394654
+  title: Your face
+  url: https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH
+- artist: ooes
+  isrc: FR59R2161423
+  title: ночь
+  url: https://open.spotify.com/track/0Mfjy6p9vZsfzbQReWdooZ
+- artist: ooes
+  isrc: FR96X2429916
+  title: пепел
+  url: https://open.spotify.com/track/1E18e1c9ZlNkDcW7wcx2ai
