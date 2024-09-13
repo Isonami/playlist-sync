@@ -3238,10 +3238,6 @@
   isrc: USMV20000038
   title: Passenger
   url: https://open.spotify.com/track/7IoK6jZBxY7NMoQPoPXZCF
-- artist: polnalyubvi
-  isrc: QM6MZ2056554
-  title: Кометы
-  url: https://open.spotify.com/track/7CI5GaXYK9QwaowodWIbwX
 - artist: Element Eighty
   isrc: USUR10300935
   title: Broken Promises
@@ -9127,18 +9123,6 @@
   isrc: GBAAA0600125
   title: Blind
   url: https://open.spotify.com/track/16gKKMnnawpAGcKIwpWtVQ
-- artist: polnalyubvi
-  isrc: QM7282055859
-  title: Девочка И Море
-  url: https://open.spotify.com/track/3kDqie3vVGJRWDmScJNP8S
-- artist: polnalyubvi
-  isrc: QM7282055870
-  title: Больше Ничего
-  url: https://open.spotify.com/track/0dWQpTevJc5z5SHq0Ew1WF
-- artist: polnalyubvi
-  isrc: QM7282055862
-  title: Спящая Красавица
-  url: https://open.spotify.com/track/2EMQPZG0xvpw3iVbUMsQy5
 - artist: Deftones
   isrc: USMV29700143
   title: Lhabia
@@ -9183,10 +9167,6 @@
   isrc: USUG12104409
   title: Knife Talk (with 21 Savage ft. Project Pat)
   url: https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6
-- artist: polnalyubvi
-  isrc: RUA322200113
-  title: Сирена
-  url: https://open.spotify.com/track/5U1ws9CXTiukQOvZ7MlYRU
 - artist: Kanye West | Ty Dolla $ign
   isrc: QZ7XS2400007
   title: DO IT
@@ -9223,10 +9203,6 @@
   isrc: FR8EU2300040
   title: One Night/All Night
   url: https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm
-- artist: polnalyubvi
-  isrc: QM4TX2142286
-  title: Чужой среди своих
-  url: https://open.spotify.com/track/3Nw5rlnBPPqo7JBZRf2Tfd
 - artist: Novulent
   isrc: QZNWU2336614
   title: savior
@@ -9287,10 +9263,6 @@
   isrc: RUA1D2319886
   title: Моменты
   url: https://open.spotify.com/track/53JK8gLrQYpHUhCU6z9HRg
-- artist: polnalyubvi
-  isrc: QM7282055861
-  title: Источник
-  url: https://open.spotify.com/track/4SzsnYonGSkAFuubjkveTK
 - artist: polnalyubvi
   isrc: FR96X1987183
   title: Юность
@@ -9391,10 +9363,6 @@
   isrc: FR8EU2300010
   title: Neverender
   url: https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj
-- artist: polnalyubvi
-  isrc: QM7282055867
-  title: Шапито
-  url: https://open.spotify.com/track/38ePA86ewEElQtMCDxIj5a
 - artist: Chernoburkv | CREEPYMANE
   isrc: DGA082337763
   title: Dopamine
@@ -9567,10 +9535,6 @@
   isrc: RUA1D2351914
   title: Дно
   url: https://open.spotify.com/track/0lGBrqBuRaqDfAVFuxcFuU
-- artist: polnalyubvi
-  isrc: FR59R1885701
-  title: Заплетаю ветер на коротких волосах
-  url: https://open.spotify.com/track/4LNsZNVLWuEbSx0MF8gxOc
 - artist: Muse
   isrc: GBAHT1901183
   title: Stockholm Syndrome
@@ -9595,10 +9559,6 @@
   isrc: USYFZ2411501
   title: New Way Out
   url: https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t
-- artist: polnalyubvi
-  isrc: FR59R1885703
-  title: Май осень целовал
-  url: https://open.spotify.com/track/4LXXrD8NOGcfP1vnm3r2mN
 - artist: Три дня дождя
   isrc: FR2X42122499
   title: Где ты
@@ -9655,3 +9615,47 @@
   isrc: SE5AJ2201713
   title: Bliss
   url: https://open.spotify.com/track/2hkGd89f1mtUp19libeWmR
+- artist: polnalyubvi
+  isrc: FR59R1885701
+  title: Заплетаю ветер на коротких волосах
+  url: https://open.spotify.com/track/5du0rvu8vlBn1Y1vpRQ8VE
+- artist: polnalyubvi
+  isrc: FR59R1885703
+  title: Май осень целовал
+  url: https://open.spotify.com/track/1SuOA8IwQWBGYbbJRDqYa7
+- artist: polnalyubvi
+  isrc: QM6MZ2056554
+  title: Кометы
+  url: https://open.spotify.com/track/5KDHY95QLZTZ5TVYXOUm5s
+- artist: polnalyubvi
+  isrc: QM7282055859
+  title: Девочка и Море
+  url: https://open.spotify.com/track/759fLyRBRcatr0h4jqlAuO
+- artist: polnalyubvi
+  isrc: QM7282055861
+  title: Источник
+  url: https://open.spotify.com/track/2zLccYtfGB217L4vteLoG7
+- artist: polnalyubvi
+  isrc: QM7282055862
+  title: Спящая красавица
+  url: https://open.spotify.com/track/64Uiv4X755MZm6N597IT0M
+- artist: polnalyubvi
+  isrc: QM7282055867
+  title: Шапито
+  url: https://open.spotify.com/track/6DsdJxITLaW7dSBmvXuNcY
+- artist: polnalyubvi
+  isrc: QM7282055870
+  title: Больше ничего
+  url: https://open.spotify.com/track/1OCnN7kPlavROTci7Bs5wd
+- artist: polnalyubvi
+  isrc: QM4TX2142286
+  title: Чужой среди своих
+  url: https://open.spotify.com/track/4ABPFot3BSpRdv2WeYRBJs
+- artist: polnalyubvi
+  isrc: RUA322200113
+  title: Сирена
+  url: https://open.spotify.com/track/28YeOsvsRxNiPjIhp7k5Uv
+- artist: Kendrick Lamar
+  isrc: USUM71207642
+  title: Swimming Pools (Drank)
+  url: https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi
