@@ -395,10 +395,6 @@
   title: Diamond Eyes
   url: https://open.spotify.com/track/1FdU4oF88UOJwA9GYgognx
 - artist: nothing,nowhere.
-  isrc: USAT21703812
-  title: Clarity in Kerosene
-  url: https://open.spotify.com/track/4MEV1Uc2f8a0S72QJ7pze6
-- artist: nothing,nowhere.
   isrc: USAT21800736
   title: hammer
   url: https://open.spotify.com/track/2Y4ol1FiPdSPMwaEMJgXMN
@@ -414,10 +410,6 @@
   isrc: USQY51602449
   title: Letdown
   url: https://open.spotify.com/track/31CzDmNZhSA5WcGNaGTinq
-- artist: nothing,nowhere. | Dashboard Confessional
-  isrc: USAT21702090
-  title: Hopes Up (feat. Dashboard Confessional)
-  url: https://open.spotify.com/track/1w5dZMSwIM242ymwTv0PAi
 - artist: nothing,nowhere.
   isrc: USAT21800570
   title: ruiner
@@ -7159,7 +7151,7 @@
   title: 96 Quite Bitter Beings
   url: https://open.spotify.com/track/7AimHQrOUoUTYbVX87D3Zl
 - artist: No Vacation
-  isrc: ushm81626735
+  isrc: USHM81626735
   title: Dræm Girl
   url: https://open.spotify.com/track/6lbLn5iL2NBJnbib7bTXMn
 - artist: Chrome Sparks
@@ -9719,3 +9711,11 @@
   isrc: GBCEL0900443
   title: Crying Lightning
   url: https://open.spotify.com/track/6wVWJl64yoTzU27EI8ep20
+- artist: polnalyubvi
+  isrc: FR96X1987180
+  title: Лишь бы не снилось
+  url: https://open.spotify.com/track/7k7CGX3nhb7NkNUC08LkEU
+- artist: SAMURAI | Refused
+  isrc: PLI361935190
+  title: Never Fade Away
+  url: https://open.spotify.com/track/1AslaQYl1cMb1ItQKmtJer
