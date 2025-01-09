@@ -4,6 +4,7 @@ run-name: automatic run
 on:
   schedule:
     - cron: '30 20 */4 * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
