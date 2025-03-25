@@ -560,7 +560,7 @@
   url: https://open.spotify.com/track/3XzwbQQD4lQkflK38twqXu
 - artist: Data | Benny Sings
   isrc: FR3PA1500010
-  title: Don't Sing (feat. Benny Sings)
+  title: Don't Sing
   url: https://open.spotify.com/track/3Q7Fhds0twd9SAHrcGTwYL
 - artist: Juice WRLD
   isrc: USUG11800685
@@ -1842,7 +1842,7 @@
   isrc: USMTD2000017
   title: Martin
   url: https://open.spotify.com/track/3ehsoSi7UvH6c79eX6WQke
-- artist: Gorillaz
+- artist: Gorillaz | De La Soul
   isrc: GBAYE0500172
   title: Feel Good Inc.
   url: https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT
@@ -2954,7 +2954,7 @@
   isrc: USRC11300081
   title: Slow Animals
   url: https://open.spotify.com/track/5y1FCAhYarSCNO9I9hS82M
-- artist: Gorillaz
+- artist: Gorillaz | Del The Funky Homosapien
   isrc: GBAYE0001408
   title: Clint Eastwood
   url: https://open.spotify.com/track/1RKUoGiLEbcXN4GY4spQDx
@@ -7218,7 +7218,7 @@
   isrc: GBAYE0402431
   title: Dirty Harry
   url: https://open.spotify.com/track/2bfGNzdiRa1jXZRdfssSzR
-- artist: Gorillaz
+- artist: Gorillaz | Shaun Ryder
   isrc: GBAYE0500178
   title: DARE
   url: https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk
@@ -10163,3 +10163,23 @@
   isrc: USUM72414866
   title: EVIL J0RDAN
   url: https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w
+- artist: nttrl | solarn
+  isrc: QZL5N2449661
+  title: Клыки - Dark Version
+  url: https://open.spotify.com/track/0PTxN6HlizSvtg44v4dzTE
+- artist: ONL | Alex Ricellow
+  isrc: QM6MZ2423938
+  title: Getting closer
+  url: https://open.spotify.com/track/01UUWoZpNWcdRJrrOye7RA
+- artist: Fall Out Boy
+  isrc: USUM70619006
+  title: This Ain't A Scene, It's An Arms Race
+  url: https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp
+- artist: Fall Out Boy
+  isrc: USUM70507536
+  title: Snitches And Talkers Get Stitches And Walkers
+  url: https://open.spotify.com/track/0BIzDMGOblVrdoXQFmzdbV
+- artist: Куок
+  isrc: QMBZ92054602
+  title: v90 Nilsson
+  url: https://open.spotify.com/track/1Fa5hnQXg6GjY89uqT9CT1
