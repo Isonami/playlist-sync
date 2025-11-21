@@ -2808,7 +2808,7 @@
   url: https://open.spotify.com/track/6kuudUd50kADw1HmSGoT6X
 - artist: Daft Punk
   isrc: GBDUW0600057
-  title: Around the World - Radio Edit [Radio Edit]
+  title: Around the World - Radio Edit
   url: https://open.spotify.com/track/0TxMRiAvI1s0L821BJJWzx
 - artist: Silverstein
   isrc: TCAFC2096525
@@ -10575,3 +10575,7 @@
   isrc: QT6E92539303
   title: Harmorset
   url: https://open.spotify.com/track/0KnrAdbtP4aW6DGJHGWosr
+- artist: Bad Omens
+  isrc: USYFZ2568301
+  title: Left For Good
+  url: https://open.spotify.com/track/4pjSe7n2609YnMWnrJ3OVJ
