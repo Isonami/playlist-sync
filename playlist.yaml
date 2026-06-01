@@ -11251,6 +11251,10 @@
   isrc: USQE92600091
   title: False Reaction
   url: https://open.spotify.com/track/3TG5mHXETb6JyWzysmZ5RN
+- artist: Wisp
+  isrc: USUM72316102
+  title: Once then we'll be free
+  url: https://open.spotify.com/track/654f3RV4IZdpvH189db8mQ
 - artist: Scrim
   isrc: QZAPK2000773
   title: bleak midwinter
@@ -11260,17 +11264,9 @@
   title: if life was fair, ducks would have shotguns
   url: https://open.spotify.com/track/56og87XLIhwc1w7eLuZp9Q
 - artist: Placebo
-  isrc: GBAAA9820457
-  title: Without You I'm Nothing
-  url: https://open.spotify.com/track/3RQndQlG5xUt6dzINPh4yI
-- artist: Placebo
   isrc: GBAAA0000666
   title: Spite and Malice
   url: https://open.spotify.com/track/4GBGMbIcgZu6MPWU01hy8O
-- artist: Placebo
-  isrc: GBAAA0000665
-  title: Special K
-  url: https://open.spotify.com/track/0W6QtgkxPNJ7simo1UcBIr
 - artist: Placebo
   isrc: JEA000900007
   title: Speak in Tongues
@@ -11283,10 +11279,6 @@
   isrc: JEA000900009
   title: Julien
   url: https://open.spotify.com/track/0l6JD6AabNxGDN8PVIqGlp
-- artist: Placebo
-  isrc: GBAAA0600120
-  title: Infra-Red
-  url: https://open.spotify.com/track/3GGKw5xdUEK77sIqVJw63n
 - artist: Placebo
   isrc: JEA000900010
   title: Happy You're Gone
@@ -11319,3 +11311,19 @@
   isrc: QZAPK2000789
   title: maybe you're right...
   url: https://open.spotify.com/track/7Kv6hvgJUnLqZo5zxhBSor
+- artist: Scrim
+  isrc: QZAPK2000793
+  title: trackstar
+  url: https://open.spotify.com/track/7iz6kjW3q7oLKKKvlONl62
+- artist: Scrim
+  isrc: QZAPK2000795
+  title: heaven 4 a fiend
+  url: https://open.spotify.com/track/3Acwfsj3tLAuoThJfwHlMx
+- artist: Scrim
+  isrc: QZAPK2000800
+  title: color me dead
+  url: https://open.spotify.com/track/4fopYAZYoyzi7h1TLIMdqW
+- artist: Adept
+  isrc: ATN262539102
+  title: YOU
+  url: https://open.spotify.com/track/5wNEarv5uPUkWF5bIbg2Fo
